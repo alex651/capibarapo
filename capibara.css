@@ -6,6 +6,7 @@ html, body {
 
 .page {
   background-color: white;
+  font-family: sans-serif;
 
   }
 
@@ -51,7 +52,7 @@ html, body {
 
 
   .page-content a {
-   font-family: sans-serif; 
+    
   }
 
 h1 {
